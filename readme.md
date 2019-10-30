@@ -6,7 +6,7 @@
 
 ## Preview
 
-[![Image Carousel](screenshot.happening)](https://videothrone.github.io/img-carousel/)
+[![Image Carousel](screenshot.png)](https://videothrone.github.io/img-carousel/)
 
 ## Demo
 
